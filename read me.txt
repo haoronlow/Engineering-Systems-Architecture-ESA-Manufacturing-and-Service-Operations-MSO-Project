@@ -1,0 +1,7 @@
+When running the code, 
+1) Ensure "Run App" is running on "external" and not "in window"
+2) If any PDFs are not working, click the "-" button on the top bar to 
+   recover resolution within the PDF
+3) Ensure www file is in the same working directory as the code
+4) Remember to register yourself! 
+Have fun~
